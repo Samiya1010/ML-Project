@@ -1,6 +1,7 @@
-pandas==1.5.3
-numpy>=1.21.0
+pandas
+numpy
 scikit-learn
 matplotlib
 jupyter
+seaborn
 -e .
