@@ -113,7 +113,7 @@ class DataTransformation:
 
 if __name__ == "__main__":
     try:
-        # Provide the correct paths to your train and test CSV files
+        # Provide the correct paths to train and test CSV files
         train_path = os.path.join('artifacts', 'train.csv')
         test_path = os.path.join('artifacts', 'test.csv')
 
